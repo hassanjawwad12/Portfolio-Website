@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2556ccf.css",
+    "main.js": "/static/js/main.0fd6fe7a.js",
+    "static/media/animals.gif": "/static/media/animals.5aaad577929057e638ba.gif",
+    "static/media/Resume.pdf": "/static/media/Resume.bcb1021831ddcc9c28b2.pdf",
+    "static/media/pacman.gif": "/static/media/pacman.e4ff4011a17c9b64b43f.gif",
+    "static/media/hospitall.gif": "/static/media/hospitall.d0d9fa81f420dcae8f8b.gif",
+    "static/media/pc.webp": "/static/media/pc.5f6cadab7599dcea2835.webp",
+    "static/media/drum.gif": "/static/media/drum.f4ebf33447f93908f9d2.gif",
+    "static/media/bg-purple.jpg": "/static/media/bg-purple.bf4c22f1de5526af46ad.jpg",
+    "static/media/me.png": "/static/media/me.03ddd819a0edb5f8a5de.png",
+    "static/media/puzzle.webp": "/static/media/puzzle.eabf150a3c499e7d1fc1.webp",
+    "static/media/spamm.webp": "/static/media/spamm.a84825d82d341cf13873.webp",
+    "static/media/about.jpeg": "/static/media/about.821f09245df83e0bdb02.jpeg",
+    "static/media/dices.webp": "/static/media/dices.b680f1e7e8c068f02453.webp",
+    "static/media/overflow.webp": "/static/media/overflow.d2f5fbb86c6389b80bf0.webp",
+    "index.html": "/index.html",
+    "main.e2556ccf.css.map": "/static/css/main.e2556ccf.css.map",
+    "main.0fd6fe7a.js.map": "/static/js/main.0fd6fe7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2556ccf.css",
+    "static/js/main.0fd6fe7a.js"
+  ]
+}
